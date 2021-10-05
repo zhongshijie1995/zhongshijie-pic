@@ -1,6 +1,6 @@
-echo ' ***** mirrors-pic Auto Commit ***** *'
+echo ' ***** zhongshijie-pic Auto Commit ***** *'
 git add .
 git commit -m 'AutoCommit'
-echo ' ***** mirrors-pic Auto Push ***** *'
+echo ' ***** zhongshijie-pic Auto Push ***** *'
 git push
-echo ' ***** mirrors-pic Auto Finish ***** '
+echo ' ***** zhongshijie-pic Auto Finish ***** '
